@@ -1,0 +1,24 @@
+<html>
+<body>
+<header>
+    <p class = "name"> Eric Walker Homepage</p>
+</header>
+ <nav>
+	<ul>
+		<a style="color:white;" href = "https://www.amazon.com/Best-Sellers-Kindle-Store/zgbs/digital-text">Amazon's Best Sellers</a>
+		<a style="color:white;" href = "">Hobbies</a>
+		<a style="color:white;" href = "">Favorite Teams</a>
+	</ul>
+    <table>
+          <th class = "hob">Hobbies</th><th class = "ft" style="color:white;">Favorite Teams</th>
+          <tr><td class = "hob">Archery</td><td class = "ft" style="color:white;">Tampa Bay Lightning</td></tr>
+          <tr><td class = "hob">Music</td><td class = "ft" style="color:white;">Arkansas Razorbacks</td></tr>
+          <tr><td class = "hob">Movies</td><td class = "ft" style="color:white;">Tampa Bay Buccaneers</td></tr>
+          <tr><td class = "hob">Cooking</td><td class = "ft" style="color:white;">Dallas Stars</td></tr>
+          <tr><td class = "hob">Hockey</td><td class = "ft" style="color:white;">Dallas Cowboys</td></tr>
+    </table>
+</nav>
+<footer>Copyright 2021 E. Walker, Inc. All Rights Reserved</footer>
+</body>
+</html>
+
