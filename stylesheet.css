@@ -1,0 +1,31 @@
+<style>
+    body {
+        background-image:"https://s.hdnux.com/photos/01/13/73/72/19906207/3/1200x0.jpg";
+    }
+    header {
+        text-align: center;
+       
+    }
+    p {
+        font-size: 20;
+        font-style: bold;
+        font-family: "Times New Roman", Times, serif
+    }
+	nav {
+	background-color: black;
+    text-align: right;
+    position: fixed;
+	}
+    .hob{ 
+    background-color: green;
+    font-size: 12;
+    text-align: left;
+    width: 300px;
+    }
+    .ft{
+    background-color: darkblue;
+    font-size: 12;
+    font color: white;
+    width: 300px;
+    }
+</style>
